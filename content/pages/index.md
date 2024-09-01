@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Transform supply chains into demand driven, responsive and resilient
-        value chain networks.
+      text: AI can improve supply chain decision-making and operational efficiency.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
