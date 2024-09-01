@@ -5,8 +5,8 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        transform their supply chains and business processes into demand driven,
-        responsive and resilient value chain networks.
+        Transform supply chains into demand driven, responsive and resilient
+        value chain networks.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
