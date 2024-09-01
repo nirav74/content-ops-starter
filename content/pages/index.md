@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Supply Chain INTEGRATION RE-Engineering Excellence
+      label: Supply Chain PERFORMANCE INTEGRATION RE-Engineering Excellence
       color: text-primary
       type: Badge
     elementId: ''
