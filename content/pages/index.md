@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Supply chain systems powered by AI are helping companies\_[optimize](https://www.ibm.com/topics/supply-chain-optimization)\_routes, streamline workflows, improve\_[procurement](https://www.ibm.com/topics/procurement), minimize shortages and\_[automate](https://www.ibm.com/topics/automation)\_tasks end-to-end\n"
     actions:
       - label: Get started
         altText: ''
