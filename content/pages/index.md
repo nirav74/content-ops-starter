@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        transform their supply chains and business processes into demand driven,
+        responsive and resilient value chain networks.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
