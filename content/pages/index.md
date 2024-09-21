@@ -92,7 +92,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Improved Adoption
         text: >
           We help various facets of any typical organization including the
           commercial sales and marketing, planning, manufacturing, distribution
