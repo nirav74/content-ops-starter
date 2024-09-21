@@ -438,7 +438,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: The Autonomous Supply Chain
       color: text-primary
       styles:
         self:
