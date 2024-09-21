@@ -122,10 +122,16 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          SPIREOPS has On Site consulting teams and Off Shore teams which are
+          leverage-able for implementation initiatives to accelerate value,
+          provide time zone coverage advantages and reduce overall cost. The
+          SPIREOPS team is comprised of former Big 5 and ex SAP Platinum level
+          consulting resources that bring solid real world experience combined
+          with diverse industry knowledge. Our goal is to help ensure customer
+          success with operational excellence, value maximization, risk
+          mitigation, effective change management and high rate of user adoption
+          with sustainable, agile and responsive business processes.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
