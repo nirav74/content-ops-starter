@@ -318,7 +318,7 @@ sections:
           using their SPIREOPS EDV software. Their business and functional
           expertise yielded significant improvements in a complex project.”
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: 'VP Global Ops, UTC Aerospace Systems'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
