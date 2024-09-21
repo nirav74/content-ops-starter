@@ -343,8 +343,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          “SPIREOPS, helped us design and architect a robust and sustainable
+          solution to use SAP EIS effectively across the extended supply chain
+          and achieve desired business benefits. They demonstrated a unique
+          combination of strategic expertise and technical capabilities which is
+          a key requirement to success in such a complex initiative.”
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
