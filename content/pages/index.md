@@ -348,7 +348,7 @@ sections:
           and achieve desired business benefits. They demonstrated a unique
           combination of strategic expertise and technical capabilities which is
           a key requirement to success in such a complex initiative.”
-        tagline: Testimonial 3
+        tagline: 'Sr Director, Global Logistics and Supply, Pfizer, Inc.'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
