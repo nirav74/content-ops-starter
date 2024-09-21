@@ -59,7 +59,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 25+
         subtitle: Numbers Done
         text: >
           At SPIREOPS, we strive to deliver high value and accelerate the return
