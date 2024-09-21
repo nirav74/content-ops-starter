@@ -91,7 +91,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: 10x
         subtitle: Improved Adoption
         text: >
           We help various facets of any typical organization including the
