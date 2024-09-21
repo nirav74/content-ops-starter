@@ -288,10 +288,8 @@ sections:
           planner productivity"
         tagline: Testimonial 1
         subtitle: 'Director of Demand Planning, GE Lighting'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Improved Forecast Accuracy, Inventory levels and Customer Service.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
