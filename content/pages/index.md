@@ -443,9 +443,13 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          25% of supply chain
+          decisions will be made
+          across intelligent edge
+          ecosystems
+          through 2025
+          Gartner
         image:
           url: /images/Fotolia_45906720_Subscription_Monthly_XL.jpg
           altText: Placeholder image
