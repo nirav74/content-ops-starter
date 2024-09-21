@@ -387,7 +387,7 @@ sections:
     items:
       - title: Resilience
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           3.6%
           Additional growth captured by more resilient companies
