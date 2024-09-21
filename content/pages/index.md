@@ -188,9 +188,6 @@ sections:
         type: ImageBlock
       - altText: Contentful logo
         type: ImageBlock
-      - url: /images/UTC.png
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/GE.png
         altText: Rangle logo
         type: ImageBlock
