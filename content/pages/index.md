@@ -387,7 +387,7 @@ sections:
     items:
       - title: Resilience
         tagline: ''
-        subtitle: Sales Automation
+        subtitle: 'Sales Automation, Forecast Accuracy, Risk Management'
         text: |
           3.6%
           Additional growth captured by more resilient companies
