@@ -317,7 +317,7 @@ sections:
           Planning issues, Inventory shortages and Supplie signal volatility,
           using their SPIREOPS EDV software. Their business and functional
           expertise yielded significant improvements in a complex project.”
-        tagline: Testimonial 2
+        tagline: SAP ECC Project
         subtitle: 'VP Global Ops, UTC Aerospace Systems'
         text: |
           Stabilized materials planning and fulfillment processes
