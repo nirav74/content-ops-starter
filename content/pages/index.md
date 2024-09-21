@@ -172,8 +172,7 @@ sections:
       - url: /images/Rexnord.jpg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/GE.png
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - url: /images/SAP.jpeg
         altText: Sanity logo
