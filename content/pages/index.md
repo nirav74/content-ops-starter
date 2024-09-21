@@ -444,7 +444,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Leveraging automation to take on manual and repetitive tasks
     items:
       - title: Feature Item One
         tagline: This is the tagline
