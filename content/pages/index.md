@@ -451,7 +451,7 @@ sections:
           across intelligent edge
           ecosystems
           through 2025
-          Gartner
+          Source: Gartner
         image:
           url: /images/Fotolia_45906720_Subscription_Monthly_XL.jpg
           altText: Placeholder image
