@@ -413,7 +413,7 @@ sections:
         type: FeaturedItem
       - title: Productivity
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Product Genealogy, Planning Master Data, Quality Management'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
