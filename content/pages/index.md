@@ -443,7 +443,7 @@ sections:
       - title: Planning
         tagline: ''
         subtitle: >-
-          Update of Planning Master Data, Order Confirmation, Concurrent Labor
+          Improve Accuracy of Planning Master Data, Order Confirmation, Labor
           Management
         text: |
           25% of supply chain
