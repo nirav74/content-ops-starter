@@ -246,7 +246,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: Customer References
+      text: References
       color: text-dark
       styles:
         self:
