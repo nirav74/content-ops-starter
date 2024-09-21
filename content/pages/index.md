@@ -195,7 +195,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/SAP.jpeg
         altText: Image alt text placeholder
         elementId: ''
         styles:
