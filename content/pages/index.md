@@ -350,10 +350,8 @@ sections:
           a key requirement to success in such a complex initiative.”
         tagline: 'Sr Director, Global Logistics and Supply, Pfizer, Inc.'
         subtitle: 'Sr Director, Global Logistics and Supply, Pfizer, Inc.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Reduced inventory and working capital
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
