@@ -186,11 +186,6 @@ sections:
       - url: /images/Rexnord.jpg
         altText: Telus logo
         type: ImageBlock
-      - altText: Contentful logo
-        type: ImageBlock
-      - url: /images/UTC.png
-        altText: Sanity logo
-        type: ImageBlock
       - url: /images/GE.png
         altText: Rangle logo
         type: ImageBlock
@@ -210,6 +205,34 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/BH.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/elf.jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/ACN.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/DUP.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/COKE.jpeg
         altText: Image alt text placeholder
         elementId: ''
         styles:
@@ -244,7 +267,13 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    title: null
+    title:
+      type: TitleBlock
+      text: References
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: What our customers say about us
     items:
       - title: >-
@@ -339,96 +368,6 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
     elementId: null
     variant: next-prev-nav
     colors: bg-light-fg-dark
@@ -447,15 +386,15 @@ sections:
     subtitle: Leveraging automation to take on manual and repetitive tasks
     items:
       - title: Resilience
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: 'Sales Automation, Forecast Accuracy, Risk Management'
         text: |
           3.6%
           Additional growth captured by more resilient companies
 
           Source:: Accenture
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Fotolia_39930327_Subscription_Monthly_XXL.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -472,42 +411,81 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Productivity
+        tagline: ''
+        subtitle: 'Product Genealogy, Planning Master Data, Quality Management'
+        text: |
+          65% Percentage of short-term
+          decisions within supply
+          chain planning expected
+          to be automated or
+          autonomous by 2026
+
+          Source: Supply Chain Digest
+        image:
+          url: /images/Fotolia_36523807_Subscription_Monthly_XXL.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Planning
+        tagline: ''
+        subtitle: >-
+          Improve Accuracy of Planning Master Data, Order Confirmation, Labor
+          Management
+        text: |
+          25% of supply chain
+          decisions will be made
+          across intelligent edge
+          ecosystems
+          through 2025
+
+
+          Source: Gartner
+        image:
+          url: /images/Fotolia_45906720_Subscription_Monthly_XL.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - type: FeaturedItem
+        title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
-          type: ImageBlock
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
@@ -518,7 +496,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-        type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
