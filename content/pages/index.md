@@ -348,7 +348,7 @@ sections:
           and achieve desired business benefits. They demonstrated a unique
           combination of strategic expertise and technical capabilities which is
           a key requirement to success in such a complex initiative.”
-        tagline: Implementation of Enterprise Multi Echelon Inventory Optimization
+        tagline: SmartOps / SAP Enterprise Multi Echelon Inventory Optimization Project
         subtitle: 'Sr Director, Global Logistics and Supply, Pfizer, Inc.'
         text: |
           Reduced inventory and working capital
