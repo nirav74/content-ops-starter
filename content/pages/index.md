@@ -446,7 +446,7 @@ sections:
       type: TitleBlock
     subtitle: Leveraging automation to take on manual and repetitive tasks
     items:
-      - title: Feature Item One
+      - title: Resilience
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
