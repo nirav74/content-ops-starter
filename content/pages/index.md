@@ -121,7 +121,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: Faster Delivery
         text: >
           SPIREOPS has On Site consulting teams and Off Shore teams which are
           leverage-able for implementation initiatives to accelerate value,
