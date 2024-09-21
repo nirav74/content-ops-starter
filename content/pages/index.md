@@ -248,6 +248,9 @@ sections:
       type: TitleBlock
       text: Customer References
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: What our customers say about us
     items:
       - title: >-
