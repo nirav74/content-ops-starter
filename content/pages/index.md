@@ -371,7 +371,7 @@ sections:
 
           Source:: Accenture
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Fotolia_39930327_Subscription_Monthly_XXL.jpg
           altText: Placeholder Image
           styles:
             self:
