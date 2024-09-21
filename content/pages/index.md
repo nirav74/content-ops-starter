@@ -282,8 +282,10 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Our partner helped us optimize APO DP and SNP capabilities to improve
+          Demand and Supply Planning processes. This unlocked significant
+          benefit in terms of using statistical forecasting and improving
+          planner productivity"
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
