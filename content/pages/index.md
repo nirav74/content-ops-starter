@@ -417,7 +417,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Fotolia_36523807_Subscription_Monthly_XXL.jpg
           altText: Placeholder image
           styles:
             self:
