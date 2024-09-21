@@ -169,7 +169,7 @@ sections:
       - url: /images/Pelican.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Rexnord.jpg
         altText: Telus logo
         type: ImageBlock
       - url: /images/GE.png
