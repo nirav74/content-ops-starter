@@ -536,7 +536,7 @@ sections:
       text: We want to hear from you
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: |+
       SPIREOPS Inc. 
 
