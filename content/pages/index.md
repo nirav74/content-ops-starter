@@ -186,8 +186,6 @@ sections:
       - url: /images/Rexnord.jpg
         altText: Telus logo
         type: ImageBlock
-      - altText: Contentful logo
-        type: ImageBlock
       - url: /images/GE.png
         altText: Rangle logo
         type: ImageBlock
