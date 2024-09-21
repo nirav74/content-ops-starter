@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Speed, Expertise and Value'
     items:
       - type: FeaturedItem
         title: 25+
