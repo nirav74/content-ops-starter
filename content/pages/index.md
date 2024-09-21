@@ -175,7 +175,7 @@ sections:
       - url: /images/GE.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/SAP.jpeg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/GE.png
