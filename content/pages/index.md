@@ -450,7 +450,10 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          3.6%
+          Additional growth captured by more resilient companies
+
+          Source:: Accenture
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
