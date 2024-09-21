@@ -442,7 +442,7 @@ sections:
         type: FeaturedItem
       - title: Planning
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           25% of supply chain
           decisions will be made
