@@ -286,7 +286,7 @@ sections:
           Demand and Supply Planning processes. This unlocked significant
           benefit in terms of using statistical forecasting and improving
           planner productivity"
-        tagline: Testimonial 1
+        tagline: SAP Advanced Planning and Optimizer Project
         subtitle: 'Director of Demand Planning, GE Lighting'
         text: |
           Improved Forecast Accuracy, Inventory levels and Customer Service.
