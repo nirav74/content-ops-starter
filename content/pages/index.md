@@ -93,10 +93,14 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We help various facets of any typical organization including the
+          commercial sales and marketing, planning, manufacturing, distribution
+          and logistics functions to embrace change generated through
+          transformation and implementation initiatives. This is achieved
+          through effective change management techniques leading to higher user
+          adoption rates and an increased sense of ownership in using and
+          improving business processes.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
