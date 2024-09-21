@@ -163,7 +163,7 @@ sections:
       - url: /images/Keter.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Pfizer.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
