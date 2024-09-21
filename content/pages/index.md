@@ -29,7 +29,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Fotolia_38913855_Subscription_Monthly_XXL.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
