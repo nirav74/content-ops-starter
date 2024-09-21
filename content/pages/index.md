@@ -415,7 +415,13 @@ sections:
         tagline: ''
         subtitle: 'Product Genealogy, Planning Master Data, Quality Management'
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          65% Percentage of short-term
+          decisions within supply
+          chain planning expected
+          to be automated or
+          autonomous by 2026
+
+          Source: Supply Chain Digest
         image:
           url: /images/Fotolia_36523807_Subscription_Monthly_XXL.jpg
           altText: Placeholder image
