@@ -442,7 +442,9 @@ sections:
         type: FeaturedItem
       - title: Planning
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Update of Planning Master Data, Order Confirmation, Concurrent Labor
+          Management
         text: |
           25% of supply chain
           decisions will be made
