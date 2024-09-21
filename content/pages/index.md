@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 25+
-        subtitle: Numbers Done
+        subtitle: SAP Projects Done
         text: >
           At SPIREOPS, we strive to deliver high value and accelerate the return
           on investment in any supply chain transformation initiative or systems
