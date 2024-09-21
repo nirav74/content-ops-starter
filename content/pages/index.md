@@ -188,7 +188,7 @@ sections:
         type: ImageBlock
       - altText: Contentful logo
         type: ImageBlock
-      - url: /images/SAP.jpeg
+      - url: /images/UTC.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/GE.png
