@@ -4,16 +4,11 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Transform supply chains into demand driven, responsive and resilient
-        value chain networks.
+      text: AI can improve supply chain decision-making and operational efficiency.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: "Build a sustainable Autonomous Supply\_ goes here"
+    text: "Supply chain systems powered by AI are helping companies\_[optimize](https://www.ibm.com/topics/supply-chain-optimization)\_routes, streamline workflows, improve\_[procurement](https://www.ibm.com/topics/procurement), minimize shortages and\_[automate](https://www.ibm.com/topics/automation)\_tasks end-to-end.\n"
     actions:
       - label: Get started
         altText: ''
@@ -34,7 +29,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Fotolia_38913855_Subscription_Monthly_XXL.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -61,15 +56,19 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Speed, Expertise and Value'
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 25+
+        subtitle: SAP Projects Done
+        text: >
+          At SPIREOPS, we strive to deliver high value and accelerate the return
+          on investment in any supply chain transformation initiative or systems
+          implementation project by leveraging our strong industry knowledge and
+          implementation expertise. We offer a unique value proposition to our
+          clients that include not only strong industry and consulting
+          expertise, but also an array of best practices, tools and accelerators
+          which can be rapidly deployed to generate value.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -92,12 +91,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 10x
+        subtitle: Improved Adoption
+        text: >
+          We help various facets of any typical organization including the
+          commercial sales and marketing, planning, manufacturing, distribution
+          and logistics functions to embrace change generated through
+          transformation and implementation initiatives. This is achieved
+          through effective change management techniques leading to higher user
+          adoption rates and an increased sense of ownership in using and
+          improving business processes.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -118,11 +121,17 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Faster Delivery
+        text: >
+          SPIREOPS has On Site consulting teams and Off Shore teams which are
+          leverage-able for implementation initiatives to accelerate value,
+          provide time zone coverage advantages and reduce overall cost. The
+          SPIREOPS team is comprised of former Big 5 and ex SAP Platinum level
+          consulting resources that bring solid real world experience combined
+          with diverse industry knowledge. Our goal is to help ensure customer
+          success with operational excellence, value maximization, risk
+          mitigation, effective change management and high rate of user adoption
+          with sustainable, agile and responsive business processes.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -150,13 +159,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -172,27 +174,47 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Keter.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/Pfizer.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Pelican.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Rexnord.jpg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/UTC.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/GE.png
         altText: Rangle logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/SAP.jpeg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/LM.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/BH.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
@@ -201,25 +223,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -230,168 +233,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -407,14 +248,14 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Our partner helped us optimize APO DP and SNP capabilities to improve
+          Demand and Supply Planning processes. This unlocked significant
+          benefit in terms of using statistical forecasting and improving
+          planner productivity"
+        tagline: SAP Advanced Planning and Optimizer Project
+        subtitle: 'Director of Demand Planning, GE Lighting'
+        text: |
+          Improved Forecast Accuracy, Inventory levels and Customer Service.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -437,14 +278,15 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “The SPIREOPS team, helped us gain quick insights into the root causes
+          of pain points around MRP Exception Messages, Master Data, Production
+          Planning issues, Inventory shortages and Supplie signal volatility,
+          using their SPIREOPS EDV software. Their business and functional
+          expertise yielded significant improvements in a complex project.”
+        tagline: SAP ECC Project
+        subtitle: 'VP Global Ops, UTC Aerospace Systems'
+        text: |
+          Stabilized materials planning and fulfillment processes
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
@@ -467,14 +309,15 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “SPIREOPS, helped us design and architect a robust and sustainable
+          solution to use SAP EIS effectively across the extended supply chain
+          and achieve desired business benefits. They demonstrated a unique
+          combination of strategic expertise and technical capabilities which is
+          a key requirement to success in such a complex initiative.”
+        tagline: SmartOps / SAP Enterprise Multi Echelon Inventory Optimization Project
+        subtitle: 'Sr Director, Global Logistics and Supply, Pfizer, Inc.'
+        text: |
+          Reduced inventory and working capital
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -595,19 +438,22 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: The Autonomous Supply Chain
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Leveraging automation to take on manual and repetitive tasks
     items:
-      - title: Feature Item One
+      - title: Resilience
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          3.6%
+          Additional growth captured by more resilient companies
+
+          Source:: Accenture
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -687,15 +533,23 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: We want to hear from you
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: |+
+      SPIREOPS Inc. 
+
+      9 Mount Aire Farm Road, 
+
+      Suite 100 
+
+      Glen Mills, PA 19342
+
+      (610) 616-2949
+
+      info\@spireops.com
+
     media:
       fields:
         - name: name
