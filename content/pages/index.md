@@ -247,7 +247,7 @@ sections:
     title:
       type: TitleBlock
       text: Customer References
-      color: text-dark
+      color: text-neutral
     subtitle: What our customers say about us
     items:
       - title: >-
