@@ -386,7 +386,7 @@ sections:
     subtitle: Leveraging automation to take on manual and repetitive tasks
     items:
       - title: Resilience
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           3.6%
