@@ -312,8 +312,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          “The SPIREOPS team, helped us gain quick insights into the root causes
+          of pain points around MRP Exception Messages, Master Data, Production
+          Planning issues, Inventory shortages and Supplie signal volatility,
+          using their SPIREOPS EDV software. Their business and functional
+          expertise yielded significant improvements in a complex project.”
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
