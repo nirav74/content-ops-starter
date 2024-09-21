@@ -61,10 +61,14 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          At SPIREOPS, we strive to deliver high value and accelerate the return
+          on investment in any supply chain transformation initiative or systems
+          implementation project by leveraging our strong industry knowledge and
+          implementation expertise. We offer a unique value proposition to our
+          clients that include not only strong industry and consulting
+          expertise, but also an array of best practices, tools and accelerators
+          which can be rapidly deployed to generate value.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
