@@ -7,7 +7,7 @@ sections:
       text: AI can improve supply chain decision-making and operational efficiency.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: "Build a sustainable Autonomous Supply\_ goes here"
     text: "Supply chain systems powered by AI are helping companies\_[optimize](https://www.ibm.com/topics/supply-chain-optimization)\_routes, streamline workflows, improve\_[procurement](https://www.ibm.com/topics/procurement), minimize shortages and\_[automate](https://www.ibm.com/topics/automation)\_tasks end-to-end.\n"
     actions:
       - label: Get started
