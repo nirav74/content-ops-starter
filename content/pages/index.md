@@ -166,7 +166,7 @@ sections:
       - url: /images/Pfizer.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Pelican.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
