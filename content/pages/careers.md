@@ -56,7 +56,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: Account Executive
+      - title: SAP IBP Consultant
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
