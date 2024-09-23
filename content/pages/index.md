@@ -490,19 +490,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |+
-      SPIREOPS Inc. 
+    text: |
+      SPIREOPS Inc.
 
-      9 Mount Aire Farm Road, 
+      9 Mount Aire Farm Road,
 
-      Suite 100 
+      Suite 100
 
       Glen Mills, PA 19342
 
       (610) 616-2949
 
-      info\@spireops.com
-
+      <info@spireops.com>
     media:
       fields:
         - name: name
@@ -545,13 +544,23 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: 'mailto:info@spireops.com'
     badge:
       label: Contact Us
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Link
+        label: Submit Email
+        altText: ''
+        url: '/mailto:info@spireops.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
