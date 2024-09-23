@@ -8,7 +8,7 @@ topSections:
       text: Supply chain networks in the age of GenAI
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
