@@ -57,7 +57,6 @@ sections:
     people:
       - content/data/person2.json
       - content/data/person3.json
-      - content/data/person4.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
