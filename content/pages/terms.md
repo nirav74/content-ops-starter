@@ -3,7 +3,7 @@ type: PageLayout
 title: Terms
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Terms
     items:
       - type: FeaturedItem
         title: >-
