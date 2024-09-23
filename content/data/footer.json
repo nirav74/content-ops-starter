@@ -27,12 +27,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "X link",
             "url": "https://x.com/spireops",
             "icon": "twitter",
