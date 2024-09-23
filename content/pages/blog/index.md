@@ -1,21 +1,20 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: 12
+numOfPostsPerPage: 3
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Supply chain networks in the age of GenAI
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    subtitle: ''
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
-    variant: big-list
+    variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
