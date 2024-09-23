@@ -51,13 +51,6 @@ sections:
           acknowledging the originator of the idea. SPIREOPS Inc. will make
           every effort to return or destroy unauthorized idea submissions but
           will review submitted ideas at its sole discretion.
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
