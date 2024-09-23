@@ -53,3 +53,8 @@ postFeed:
   colors: bg-light-fg-dark
   hoverEffect: move-up
 ---
+https\://fractal.ai/genai-for-demand-forecasting-in-fashion-retail/
+
+
+
+
