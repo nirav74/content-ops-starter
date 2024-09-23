@@ -48,7 +48,7 @@ sections:
           acknowledging the originator of the idea. SPIREOPS Inc. will make
           every effort to return or destroy unauthorized idea submissions but
           will review submitted ideas at its sole discretion.
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
