@@ -554,7 +554,7 @@ sections:
     type: GenericSection
     actions:
       - type: Link
-        label: See Tutorials
+        label: Submit Email
         altText: ''
         url: '/mailto:info@spireops.com'
         showIcon: false
