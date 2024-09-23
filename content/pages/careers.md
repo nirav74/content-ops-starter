@@ -11,11 +11,11 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      SPIREOPS offers exciting career opportunities to experienced Supply Chain
+      consultants and industry professionals. We welcome you to join our rapidly
+      growing team of experts and enjoy a lucrative career that offers you the
+      best opportunities in working with cutting edge technologies, highly
+      respectable clients and challenging projects.
     actions:
       - label: See open positions
         url: /
