@@ -57,7 +57,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - title: SAP IBP Consultant
-        subtitle: Sales
+        subtitle: ''
         text: "An SAP Integrated Business Planning (IBP) Consultant at SPIREOPS\_helps clients implement SAP IBP to transform their business and supply chain.\_Some of their responsibilities include:\n\n*   Design and configureDesign and configure SAP IBP functionalities, and lead the end-to-end implementation of SAP IBP modules\n\n*   Provide supportProvide business and functional support for the SAP IBP module, and mentor junior consultants and end-users\n\n*   CollaborateWork with business and IT stakeholders to understand client needs, and collaborate with cross-functional teams to ensure seamless integration\n\n*   Assess and recommendAssess the impact of new features and releases, and recommend adoption strategies\n\n*   Lead testingLead testing and defect resolution during SAP IBP implementation or support\n\n*   TravelTravel may be required to drive workshops and training sessions with clients\_\n\nSome qualifications for the role include:\n\n*   A bachelor's or college degree\n\n*   At least two years of experience as an IBP functional consultant\n\n*   Demonstrated knowledge of dependencies and integration with other SAP modules\_\n\nSPIREOPS offers a variety of training programs to help employees acquire and build specialized skills.\n"
         colors: bg-neutral-fg-dark
         styles:
