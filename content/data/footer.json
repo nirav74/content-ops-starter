@@ -74,7 +74,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "SPIREOPS recognizes the importance of protecting the information collected from our online users. We created this privacy statement to explain our online information practices and to demonstrate our commitment to the online users' privacy. Please note that this policy applies only to sites maintained by SPIREOPS or its subsidiaries, and not to web sites maintained by other companies or organizations to which we link.The information SPIREOPS collects from our online users is used for internal purposes only to fulfill requests for products, programs, and services, to respond to inquiries, and to offer other products, programs, or services that we believe may be of interest to you. We do not sell any information to others for marketing purposes."
         }
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
