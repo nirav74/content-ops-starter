@@ -74,10 +74,41 @@ sections:
         type: FeaturedItem
       - title: 'GenAI Supply Chain Consultant '
         subtitle: AI
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          As our AI Consultant at SPIREOPS, you'll play a key role in advising
+          on effective AI strategies and implementations, ensuring they harness
+          the full potential of artificial intelligence to meet their business
+          objectives. You will be a trusted advisor, collaborating with clients
+          and technical teams to deliver innovative and impactful AI solutions.
+
+
+          As an AI Consultant at SPIREOPS, you'll be responsible for:
+
+
+          *   Conducting feasibility studies and impact assessments for AI
+          projects, providing actionable recommendations for automation
+          initiatives
+
+
+          *   Advise customers on Traditional and GenAI use cases and best
+          practices in the Supply Chain Planning and Execution space.
+
+
+          *   Recommending the best AI tools, big data frameworks, and deep
+          learning technologies to fit business growth needs
+
+
+          *   Developing and delivering AI training sessions and workshops
+
+
+          *   Staying updated on AI advancements and industry trends to inform
+          strategic recommendations
+
+
+          *   Contributing to the documentation and knowledge sharing within the
+          organization to enable a culture of continuous learning and
+          improvement.
+
         colors: bg-neutral-fg-dark
         styles:
           self:
