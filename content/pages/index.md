@@ -490,7 +490,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
+    text: |+
       SPIREOPS Inc.
 
       9 Mount Aire Farm Road,
@@ -502,6 +502,11 @@ sections:
       (610) 616-2949
 
       <info@spireops.com>
+
+
+
+
+
     media:
       fields:
         - name: name
