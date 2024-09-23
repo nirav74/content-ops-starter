@@ -1,6 +1,6 @@
 ---
 title: Supply chain networks in the age of GenAI
-slug: top-ten-lessons-we-learned
+slug: GenAI SCM
 date: '2024-08-25'
 excerpt: ''
 featuredImage:
