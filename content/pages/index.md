@@ -545,7 +545,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: 'mailto:info@spireops.com'
     badge:
       label: Contact Us
       color: text-primary
