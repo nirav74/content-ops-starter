@@ -556,16 +556,7 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-    actions:
-      - type: Link
-        label: Submit Email
-        altText: ''
-        url: '/mailto:info@spireops.com'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
