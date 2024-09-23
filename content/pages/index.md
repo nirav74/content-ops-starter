@@ -490,19 +490,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |+
-      SPIREOPS Inc. 
+    text: |
+      SPIREOPS Inc.
 
-      9 Mount Aire Farm Road, 
+      9 Mount Aire Farm Road,
 
-      Suite 100 
+      Suite 100
 
       Glen Mills, PA 19342
 
       (610) 616-2949
 
-      info\@spireops.com
-
+      <info@spireops.com>
     media:
       fields:
         - name: name
