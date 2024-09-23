@@ -6,7 +6,7 @@ sections:
     subtitle: Terms
     items:
       - type: FeaturedItem
-        title: ''
+        title: Terms of Use
         tagline: ''
         subtitle: ''
         text: >
