@@ -49,7 +49,7 @@ sections:
           every effort to return or destroy unauthorized idea submissions but
           will review submitted ideas at its sole discretion.
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
