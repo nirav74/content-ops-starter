@@ -19,15 +19,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Fotolia_38913855_Subscription_Monthly_XXL.jpg
       altText: Unblock your team boost your time to production preview
