@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: ''
+      text: Supply chain networks in the age of generative AI
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
