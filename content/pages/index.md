@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Build a sustainable Autonomous Supply Chain
-    text: "Supply chain systems powered by GenAI are helping companies\_[optimize](https://www.ibm.com/topics/supply-chain-optimization)\_routes, automate supply chain planning, streamline workflows, improve\_[procurement](https://www.ibm.com/topics/procurement), minimize shortages and\_[automate](https://www.ibm.com/topics/automation)\_tasks.\n"
+    text: "Supply chain systems powered by GenAI are helping companies optimize\_routes, automate supply chain planning, streamline workflows, improve\_procurement, minimize shortages and automate tasks.\n"
     actions: []
     media:
       url: /images/Fotolia_38913855_Subscription_Monthly_XXL.jpg
