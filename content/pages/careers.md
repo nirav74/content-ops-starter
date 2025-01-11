@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
       SPIREOPS offers exciting career opportunities to experienced Supply Chain
       consultants and industry professionals. We welcome you to join our rapidly
