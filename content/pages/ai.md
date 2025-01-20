@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Forecast Accuracy
+        title: Improve Forecast Accuracy
         tagline: Forecasting
         subtitle: Increase your reach
         text: >-
