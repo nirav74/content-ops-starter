@@ -47,7 +47,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Supply Planning
+        title: Agile Supply Planning
         tagline: Supply Planning
         subtitle: Optimal Sourcing and Production Plans
         text: >+
