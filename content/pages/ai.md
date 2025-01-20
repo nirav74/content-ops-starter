@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Improve Forecast Accuracy
         tagline: Forecasting
-        subtitle: 'Optimize inventory, improve agility and '
+        subtitle: 'Optimize inventory and improve agility '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
