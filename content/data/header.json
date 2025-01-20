@@ -24,7 +24,7 @@
         {
             "type": "Link",
             "label": "AI Use Cases",
-            "altText": "",
+            "altText": "/ai",
             "url": "/ai",
             "showIcon": false,
             "icon": "arrowRight",
