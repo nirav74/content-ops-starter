@@ -48,7 +48,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Supply Planning
-        tagline: Feature 2
+        tagline: Optimal Sourcing and Production Plans
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
