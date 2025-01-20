@@ -47,16 +47,27 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
-        tagline: Feature 2
-        subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Supply Planning
+        tagline: Aglie Supply Planning
+        subtitle: Optimal Sourcing and Production Plans
+        text: >+
+          ### Value Proposition for Using an External Supply Optimization Tool
+          on a Data Lake Architecture
+
+
+          Integrating an **external supply optimization tool** with a **data
+          lake architecture** enables businesses to generate **optimal sourcing
+          and production plans**, leverage **simulation and "what-if"
+          modeling**, and incorporate **external data inputs**. This powerful
+          combination drives cost efficiency, agility, and resilience by
+          centralizing and analyzing vast datasets, uncovering actionable
+          insights, and enabling proactive scenario planning. The result is
+          faster, smarter decisions and a more robust, adaptable supply chain to
+          meet dynamic market demands.
+
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Fotolia_39930327_Subscription_Monthly_XXL.jpg
           altText: Business consulting
           elementId: ''
           styles:
