@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Forecast Accuracy
-        tagline: Feature 1
+        tagline: Forecasting
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
