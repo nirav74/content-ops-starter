@@ -470,7 +470,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Forecast Accuracy
         tagline: AI enabled SCM Use Cases 1
         subtitle: Increase your reach
         text: >-
