@@ -48,7 +48,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Supply Planning
-        tagline: Optimal Sourcing and Production Plans
+        tagline: ''
         subtitle: Be in good company
         text: >+
           ### Value Proposition for Using an External Supply Optimization Tool
