@@ -67,7 +67,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Fotolia_39930327_Subscription_Monthly_XXL.jpg
           altText: Business consulting
           elementId: ''
           styles:
