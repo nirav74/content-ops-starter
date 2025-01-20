@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Improve Forecast Accuracy
-        tagline: Forecasting
+        tagline: Demand Planning
         subtitle: 'Optimize inventory and improve agility '
         text: >+
           ### Value Proposition for Using an External Forecast Optimization Tool
