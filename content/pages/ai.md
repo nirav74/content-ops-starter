@@ -48,7 +48,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Supply Planning
-        tagline: Aglie Supply Planning
+        tagline: Supply Planning
         subtitle: Optimal Sourcing and Production Plans
         text: >+
           ### Value Proposition for Using an External Supply Optimization Tool
