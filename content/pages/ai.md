@@ -82,7 +82,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: AI
+slug: ai
 seo:
   type: Seo
   metaTitle: Pricing - Demo site
