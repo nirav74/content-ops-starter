@@ -21,7 +21,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Fotolia_36523807_Subscription_Monthly_XXL.jpg
           altText: Featured item
           styles:
             self:
