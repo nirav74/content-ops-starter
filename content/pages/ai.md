@@ -50,7 +50,11 @@ sections:
         title: Supply Planning
         tagline: Optimal Sourcing and Production Plans
         subtitle: Be in good company
-        text: >
+        text: >+
+          ### Value Proposition for Using an External Supply Optimization Tool
+          on a Data Lake Architecture
+
+
           Integrating an **external supply optimization tool** with a **data
           lake architecture** enables businesses to generate **optimal sourcing
           and production plans**, leverage **simulation and "what-if"
@@ -60,6 +64,7 @@ sections:
           insights, and enabling proactive scenario planning. The result is
           faster, smarter decisions and a more robust, adaptable supply chain to
           meet dynamic market demands.
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
