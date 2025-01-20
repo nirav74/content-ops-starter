@@ -49,7 +49,7 @@ sections:
       - type: FeaturedItem
         title: Supply Planning
         tagline: ''
-        subtitle: Be in good company
+        subtitle: Optimal Sourcing and Production Plans
         text: >+
           ### Value Proposition for Using an External Supply Optimization Tool
           on a Data Lake Architecture
