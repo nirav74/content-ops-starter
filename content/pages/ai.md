@@ -8,10 +8,17 @@ sections:
         title: Improve Forecast Accuracy
         tagline: Forecasting
         subtitle: 'Optimize inventory and improve agility '
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ### Value Proposition for Using an External Forecast Optimization Tool
+          on a Data Lake with a Knowledge Graph Semantic Layer
+
+
+          Leveraging an **external forecast optimization tool** on a **data lake
+          architecture** augmented with a **knowledge graph semantic layer**
+          revolutionizes forecasting by combining precise analytics, enriched
+          data context, and intuitive decision-making. Here’s how this trifecta
+          drives value:
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
