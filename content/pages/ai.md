@@ -90,10 +90,16 @@ sections:
         title: Risk Management
         tagline: Mitigate Risks
         subtitle: 'Predictive Risk Management '
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ### Value Proposition for Risk Management on a Data Lake Architecture
+
+
+          Integrating risk management capabilities on a **data lake
+          architecture** empowers organizations to proactively identify, assess,
+          and mitigate risks with unprecedented precision and agility. This
+          advanced framework offers transformative value by combining robust
+          data storage, intelligent analysis, and real-time insights.
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
