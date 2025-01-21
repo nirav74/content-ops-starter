@@ -87,7 +87,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Risk Management
+        title: ''
         tagline: Mitigate Risks
         subtitle: 'Predictive Risk Management '
         text: >+
