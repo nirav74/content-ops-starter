@@ -134,7 +134,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /info@spireops.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
