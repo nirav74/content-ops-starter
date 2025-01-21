@@ -88,7 +88,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Risk Management
-        tagline: 'Predictive Risk Management '
+        tagline: Mitigate Risks
         subtitle: 'Predictive Risk Management '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
