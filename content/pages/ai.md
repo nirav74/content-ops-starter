@@ -86,6 +86,41 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: Risk Management
+        tagline: Mitigate Risks
+        subtitle: 'Predictive Risk Management '
+        text: >+
+          ### Value Proposition for Risk Management on a Data Lake Architecture
+
+
+          Integrating risk management capabilities on a **data lake
+          architecture** empowers organizations to proactively identify, assess,
+          and mitigate risks with unprecedented precision and agility. This
+          advanced framework offers transformative value by combining robust
+          data storage, intelligent analysis, and real-time insights.
+
+        image:
+          type: ImageBlock
+          url: /images/Risk.jpg
+          altText: Risk Management
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
