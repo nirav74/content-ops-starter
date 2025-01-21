@@ -88,7 +88,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Risk Management
-        tagline: Risk Management on a Data Lake Architecture
+        tagline: 'Predictive Risk Management '
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
