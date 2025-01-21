@@ -88,7 +88,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        tagline: Mitigate Risks
+        tagline: Risk Management
         subtitle: 'Predictive Risk Management '
         text: >+
           ### Value Proposition for Risk Management on a Data Lake Architecture
