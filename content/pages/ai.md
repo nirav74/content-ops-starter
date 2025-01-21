@@ -102,7 +102,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Risk.jpg
           altText: Business consulting
           elementId: ''
           styles:
