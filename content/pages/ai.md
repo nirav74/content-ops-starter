@@ -103,7 +103,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Risk.jpg
-          altText: Business consulting
+          altText: Risk Management
           elementId: ''
           styles:
             self:
